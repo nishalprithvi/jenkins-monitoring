@@ -1,0 +1,4 @@
+/docker-compose/jenkins/
+/docker-compose/prometheus/
+/docker-compose/influxdb/
+/docker-compose/grafana/
