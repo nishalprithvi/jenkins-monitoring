@@ -8,3 +8,5 @@ need to update about it in the docker compose file.
 
 post this the docker instances would up you need to setup all the plugins in jenkins and dahboard in grafana, remember to use your machine ip address for mapping 
 the urls in prometheus.yml, in jenkins for influxdb.
+
+For more refferal and setting up influx db, grafana & jenkins look -https://youtu.be/AHSHksfg1BE
